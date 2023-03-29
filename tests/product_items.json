@@ -1,0 +1,915 @@
+[
+    {
+        "id": "PRD-207-752-513-0001",
+        "name": "InDesign for teams",
+        "status": "published",
+        "unit": {
+            "id": "licenses",
+            "name": "Licenses",
+            "title": "Licenses",
+            "unit": "unit"
+        },
+        "mpn": "65305409CA0",
+        "position": 10000,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0001",
+        "display_name": "InDesign for teams",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Team Licensing Subscription New",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2020-05-21T11:22:26+00:00",
+                "by": {
+                    "id": "UR-300-969-471",
+                    "name": "Hector Onadia"
+                }
+            },
+            "updated": {
+                "at": "2022-12-21T11:43:16+00:00",
+                "by": {
+                    "id": "UR-806-871-487",
+                    "name": "dfranco"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0002",
+        "status": "published",
+        "mpn": "65305365CA0",
+        "position": 20000,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0002",
+        "display_name": "Adobe Premiere Pro for teams",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Team Licensing Subscription New",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2020-05-21T14:03:13+00:00",
+                "by": {
+                    "id": "UR-300-969-471",
+                    "name": "Hector Onadia"
+                }
+            },
+            "updated": {
+                "at": "2022-12-21T12:14:33+00:00",
+                "by": {
+                    "id": "UR-806-871-487",
+                    "name": "dfranco"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0003",
+        "name": "Photoshop for teams",
+        "status": "published",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65305159CA",
+        "position": 30000,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0003",
+        "display_name": "Photoshop for teams",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Photoshop for teams",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2020-05-21T14:03:58+00:00",
+                "by": {
+                    "id": "UR-300-969-471",
+                    "name": "Hector Onadia"
+                }
+            },
+            "updated": {
+                "at": "2023-03-17T12:31:22+00:00",
+                "by": {
+                    "id": "UR-276-801-441",
+                    "name": "Manuel Ruiz"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0004",
+        "name": "Illustrator for teams",
+        "status": "published",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65305186CA",
+        "position": 40000,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0004",
+        "display_name": "Illustrator for teams",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Illustrator for teams",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2020-05-21T14:05:05+00:00",
+                "by": {
+                    "id": "UR-300-969-471",
+                    "name": "Hector Onadia"
+                }
+            },
+            "updated": {
+                "at": "2022-07-01T10:55:54+00:00",
+                "by": {
+                    "id": "UR-339-375-648",
+                    "name": "Jose Paniagua"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0005",
+        "name": "Adobe Stock for teams (Large)",
+        "status": "published",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65305246CA",
+        "position": 50000,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0005",
+        "display_name": "Adobe Stock for teams (Large)",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Adobe Stock for teams (Large)",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2020-05-21T14:05:43+00:00",
+                "by": {
+                    "id": "UR-300-969-471",
+                    "name": "Hector Onadia"
+                }
+            },
+            "updated": {
+                "at": "2022-07-01T12:09:15+00:00",
+                "by": {
+                    "id": "UR-339-375-648",
+                    "name": "Jose Paniagua"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0006",
+        "name": "Adobe Stock for teams (Small)",
+        "status": "published",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65305254CA",
+        "position": 60000,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0006",
+        "display_name": "Adobe Stock for teams (Small)",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Adobe Stock for teams (Small)",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2020-05-21T14:06:32+00:00",
+                "by": {
+                    "id": "UR-300-969-471",
+                    "name": "Hector Onadia"
+                }
+            },
+            "updated": {
+                "at": "2022-09-23T09:42:04+00:00",
+                "by": {
+                    "id": "UR-806-871-487",
+                    "name": "dfranco"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0007",
+        "name": "Acrobat Pro DC for teams (EU English)",
+        "status": "endofsale",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65304522CA",
+        "position": 70000,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0007",
+        "display_name": "Acrobat Pro DC for teams (EU English)",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "end_of_sale_notes": "Item appears not to be available on adobe",
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Acrobat Pro DC for teams",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2020-05-21T14:07:25+00:00",
+                "by": {
+                    "id": "UR-300-969-471",
+                    "name": "Hector Onadia"
+                }
+            },
+            "updated": {
+                "at": "2021-10-11T10:09:24+00:00",
+                "by": {
+                    "id": "UR-823-776-609",
+                    "name": "juanmanuel.cabeza@ingrammicro.com"
+                }
+            },
+            "saleended": {
+                "at": "2022-07-08T11:35:58+00:00",
+                "by": {
+                    "id": "UR-339-375-648",
+                    "name": "Jose Paniagua"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0008",
+        "name": "Acrobat Standard DC for teams",
+        "status": "endofsale",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65304886CA",
+        "position": 80000,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0008",
+        "display_name": "Acrobat Standard DC for teams",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "end_of_sale_notes": "Item appears no te be availble on adobe",
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Acrobat Standard DC for teams",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2020-05-21T14:20:37+00:00",
+                "by": {
+                    "id": "UR-300-969-471",
+                    "name": "Hector Onadia"
+                }
+            },
+            "updated": {
+                "at": "2021-10-11T10:09:31+00:00",
+                "by": {
+                    "id": "UR-823-776-609",
+                    "name": "juanmanuel.cabeza@ingrammicro.com"
+                }
+            },
+            "saleended": {
+                "at": "2022-07-08T11:36:42+00:00",
+                "by": {
+                    "id": "UR-339-375-648",
+                    "name": "Jose Paniagua"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0009",
+        "name": "Dreamweaver for teams",
+        "status": "published",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65304921CA",
+        "position": 90000,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0009",
+        "display_name": "Dreamweaver for teams",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Dreamweaver for teams",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2020-05-21T14:21:26+00:00",
+                "by": {
+                    "id": "UR-300-969-471",
+                    "name": "Hector Onadia"
+                }
+            },
+            "updated": {
+                "at": "2022-07-01T12:10:55+00:00",
+                "by": {
+                    "id": "UR-339-375-648",
+                    "name": "Jose Paniagua"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0010",
+        "name": "Dreamweaver for teams (EU English)",
+        "status": "endofsale",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65304919CA",
+        "position": 100000,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0010",
+        "display_name": "Dreamweaver for teams (EU English)",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Dreamweaver for teams",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2020-05-21T14:22:11+00:00",
+                "by": {
+                    "id": "UR-300-969-471",
+                    "name": "Hector Onadia"
+                }
+            },
+            "updated": {
+                "at": "2021-10-11T10:09:49+00:00",
+                "by": {
+                    "id": "UR-823-776-609",
+                    "name": "juanmanuel.cabeza@ingrammicro.com"
+                }
+            },
+            "saleended": {
+                "at": "2022-07-26T10:25:22+00:00",
+                "by": {
+                    "id": "UR-339-375-648",
+                    "name": "Jose Paniagua"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0011",
+        "name": "Photoshop for teams (EU English)",
+        "status": "endofsale",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65305158CA",
+        "position": 110000,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0011",
+        "display_name": "Photoshop for teams (EU English)",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": false
+        },
+        "ui_visibility": false,
+        "description": "Photoshop for teams",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2020-05-21T14:23:53+00:00",
+                "by": {
+                    "id": "UR-300-969-471",
+                    "name": "Hector Onadia"
+                }
+            },
+            "updated": {
+                "at": "2022-07-01T12:12:55+00:00",
+                "by": {
+                    "id": "UR-339-375-648",
+                    "name": "Jose Paniagua"
+                }
+            },
+            "saleended": {
+                "at": "2022-07-01T12:13:54+00:00",
+                "by": {
+                    "id": "UR-339-375-648",
+                    "name": "Jose Paniagua"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0012",
+        "name": "Acrobat Pro DC for teams (US/CA)",
+        "status": "published",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65304520CA",
+        "position": 120000,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0012",
+        "display_name": "Acrobat Pro DC for teams (US/CA)",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Multiple Platforms - Multi NorthAmerican Language (Commercial Agreement)",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2020-10-15T14:43:12+00:00",
+                "by": {
+                    "id": "UR-468-220-200",
+                    "name": "Marcos López Martínez"
+                }
+            },
+            "updated": {
+                "at": "2021-09-13T11:04:13+00:00",
+                "by": {
+                    "id": "UR-823-776-609",
+                    "name": "juanmanuel.cabeza@ingrammicro.com"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0013",
+        "name": "Acrobat Standard DC for teams (US/CA)",
+        "status": "published",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65304887CA",
+        "position": 130000,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0013",
+        "display_name": "Acrobat Standard DC for teams (US/CA)",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Windows - Multi NorthAmerican Language",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2020-10-22T07:34:39+00:00",
+                "by": {
+                    "id": "UR-468-220-200",
+                    "name": "Marcos López Martínez"
+                }
+            },
+            "updated": {
+                "at": "2021-10-11T10:10:06+00:00",
+                "by": {
+                    "id": "UR-823-776-609",
+                    "name": "juanmanuel.cabeza@ingrammicro.com"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0014",
+        "name": "Adobe Audition for teams - Multiple Platforms - (US/CA)",
+        "status": "published",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65304479CA",
+        "position": 140000,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0014",
+        "display_name": "Adobe Audition for teams - Multiple Platforms - (US/CA)",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Adobe Audition for teams - Multiple Platforms - Multi NorthAmerican Language",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2020-12-02T13:34:33+00:00",
+                "by": {
+                    "id": "UR-391-164-528",
+                    "name": "Francisco Gómez Sainz"
+                }
+            },
+            "updated": {
+                "at": "2021-10-11T10:10:13+00:00",
+                "by": {
+                    "id": "UR-823-776-609",
+                    "name": "juanmanuel.cabeza@ingrammicro.com"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0015",
+        "name": "Ilustrator Enterpise",
+        "status": "published",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65322419CA",
+        "position": 150002,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0015",
+        "display_name": "Ilustrator Enterpise",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Enterprise Ilustrator Sku",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2022-01-17T10:35:12+00:00",
+                "by": {
+                    "id": "UR-806-871-487",
+                    "name": "dfranco"
+                }
+            },
+            "updated": {
+                "at": "2022-01-17T10:39:02+00:00",
+                "by": {
+                    "id": "UR-806-871-487",
+                    "name": "dfranco"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0016",
+        "name": "Creative Cloud Enterprise",
+        "status": "published",
+        "unit": {
+            "id": "CU-066-452",
+            "name": "licens",
+            "title": "licens",
+            "unit": "unit"
+        },
+        "mpn": "65322447CA",
+        "position": 160002,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0016",
+        "display_name": "Creative Cloud Enterprise",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Creative Cloud enterprise SKU",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2022-01-17T11:13:03+00:00",
+                "by": {
+                    "id": "UR-339-375-648",
+                    "name": "Jose Paniagua"
+                }
+            },
+            "updated": {
+                "at": "2022-01-17T11:22:38+00:00",
+                "by": {
+                    "id": "UR-339-375-648",
+                    "name": "Jose Paniagua"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0017",
+        "name": "InDesign2",
+        "status": "endofsale",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65305409CA34343",
+        "position": 170002,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0017",
+        "display_name": "InDesign2",
+        "period": "monthly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "Test SKU",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2022-12-21T11:43:32+00:00"
+            },
+            "updated": {
+                "at": "2022-12-21T15:21:01+00:00",
+                "by": {
+                    "id": "UR-806-871-487",
+                    "name": "dfranco"
+                }
+            },
+            "saleended": {
+                "at": "2022-12-21T15:19:09+00:00",
+                "by": {
+                    "id": "UR-806-871-487",
+                    "name": "dfranco"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0018",
+        "name": "Adobe Premiere2",
+        "status": "endofsale",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65305365CAdfdfd",
+        "position": 180002,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0018",
+        "display_name": "Adobe Premiere2",
+        "period": "monthly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "test",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2022-12-21T12:14:49+00:00"
+            },
+            "updated": {
+                "at": "2022-12-21T15:21:44+00:00",
+                "by": {
+                    "id": "UR-806-871-487",
+                    "name": "dfranco"
+                }
+            },
+            "saleended": {
+                "at": "2022-12-21T15:21:55+00:00",
+                "by": {
+                    "id": "UR-806-871-487",
+                    "name": "dfranco"
+                }
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0019",
+        "name": "InDesign3",
+        "status": "published",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65305409CA",
+        "position": 190002,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0019",
+        "display_name": "InDesign3",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "test",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2022-12-21T15:21:31+00:00"
+            },
+            "updated": {
+                "at": "2022-12-21T15:21:31+00:00"
+            }
+        }
+    },
+    {
+        "id": "PRD-207-752-513-0020",
+        "name": "Adobe Premiere3",
+        "status": "published",
+        "unit": {
+            "id": "unit",
+            "name": "Units",
+            "title": "Units",
+            "unit": "unit"
+        },
+        "mpn": "65305365CA",
+        "position": 200002,
+        "type": "reservation",
+        "local_id": "PRD_207_752_513_0020",
+        "display_name": "Adobe Premiere3",
+        "period": "yearly",
+        "precision": "integer",
+        "commitment": {
+            "multiplier": "billing_period",
+            "count": 1
+        },
+        "dynamic": false,
+        "ui": {
+            "visibility": true
+        },
+        "ui_visibility": true,
+        "description": "test",
+        "depth": 0,
+        "events": {
+            "created": {
+                "at": "2022-12-21T15:22:22+00:00"
+            },
+            "updated": {
+                "at": "2022-12-21T15:22:22+00:00"
+            }
+        }
+    }
+]
