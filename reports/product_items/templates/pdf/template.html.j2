@@ -7,7 +7,19 @@
     </head>
     <body>
         <table>
-        
+        <tr>
+            <th>ItemId</th>
+            <th>ItemName</th>
+            <th>ItemDescription</th>
+            <th>ItemComsumptionModel</th>
+            <th>ItemBillingPeriod</th>
+            <th>ItemCommitment</th>
+            <th>ItemMPN</th>
+            <th>ItemUnit</th>
+            <th>ItemStatus</th>
+            <th>ItemCreationDate</th>
+            <th>ItemModificationDate</th>
+        </tr>
         {% for row in data %}
             <tr>
             {% for col in row %}
