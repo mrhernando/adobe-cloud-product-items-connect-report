@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "dev-product-items"
+name = "product-items"
 version = "0.1.1"
 description = "List of Items for a Product"
 authors = ["Ingram Micro"]
