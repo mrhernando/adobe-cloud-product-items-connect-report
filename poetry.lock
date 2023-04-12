@@ -725,7 +725,7 @@ tenacity = ">=6.2.0"
 
 [[package]]
 name = "pluggy"
-version = "1.0.0"
+version = "1.0.1"
 description = "plugin and hook calling mechanisms for python"
 category = "dev"
 optional = false
