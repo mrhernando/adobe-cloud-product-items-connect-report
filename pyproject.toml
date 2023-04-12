@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dev-product-items"
-version = "0.1.0"
+version = "0.1.1"
 description = "List of Items for a Product"
 authors = ["Ingram Micro"]
 license = "Apache Software License 2.0"
