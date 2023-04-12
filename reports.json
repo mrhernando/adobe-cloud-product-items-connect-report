@@ -1,11 +1,11 @@
 {
-    "name": "Product Items",
+    "name": "Dev-Product Items",
     "readme_file": "README.md",
     "version": "0.1.0",
     "language": "python",
     "reports": [
         {
-            "name": "Product Items",
+            "name": "Dev-Product Items",
             "readme_file": "reports/product_items/README.md",
             "entrypoint": "reports.product_items.entrypoint.generate",
             "audience": [
